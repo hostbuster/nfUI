@@ -1,5 +1,7 @@
 # nodeFlowUI v.0.0.5
 
+this repository has been moved to: [nodeflow-io] (https://github.com/nodeflow-io/nfUI)
+
 Why another UI? 
 
 ## See it in action 
